@@ -22,6 +22,6 @@
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&)]()
 </br>
 -----------------------------
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=janmki08&show_icons=true&theme=radical)
 
 </div>
